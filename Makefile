@@ -1,0 +1,2 @@
+lint:
+	rustfmt ./**/*.rs
